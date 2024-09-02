@@ -5,7 +5,7 @@
 
 - 🚀 I'm currently a student 
 
-- 🌱 I’m currently learning **JavaScript** and **React**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👉🏻 Check my profile
 
