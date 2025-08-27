@@ -1,11 +1,8 @@
 <h1 align="left">Hi  👋, I'm Ahmed Gürkan </h1>
 
-![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp3N2E0YWkyaTF5ZWZlY20xdTVhd3BidGVpamozbTNxZnJ6MmlzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnmCl4IGu0INrpdiaH/giphy.gif)
+![giphy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl0cHJnbWZlenk2MWhoMGJ4OTY1NWxjbHZpZGV6MDdlMHBybTk2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juSCTzqDAV1Xq/giphy.gif)
 
-
-- 🚀 I'm currently a student 
-
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Currently learning the **MERN** stack
 
 - 👉🏻 Check my profile
 
